@@ -1,7 +1,5 @@
-- 👋 Hi, I’m @ItsJustCharlie
-- 👀 I’m interested in coding
-- 🌱 I’m currently learning java 
-- 😄 Pronouns: She/her
+- 👋 Hi, I’m Samindi Umesha Liyanage
+
 
 <!---
 ItsJustCharlie/ItsJustCharlie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
